@@ -147,7 +147,7 @@ a{
     background:
     linear-gradient(rgba(250,248,243,.55),
     rgba(250,248,243,.55)),
-    url("../images/hero.jpg");
+    url("hero.jpg");
 
     background-size:cover;
     background-position: 55% center;
